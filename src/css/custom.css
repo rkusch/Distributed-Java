@@ -1,0 +1,60 @@
+
+.page-content {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.pName {
+   text-align: center;
+   font-size: 1.3em;
+   font-weight: bold;
+  
+   
+}
+
+.pPrice {
+    color:grey;
+}
+
+
+.ProductInfo input[type=text] {
+    width: 100%;
+   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    
+}
+.ProductInfo textarea {
+    height: 300px;
+    width: 100%;
+   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    
+}
+
+#bUsername {
+    color: gray;
+}
+
+#myBanner {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#bannerUserName {
+    padding-left: 10%;
+    display:inline;
+    text-align:center;
+}
+
+.nameShortened {
+  display: block;
+  width: 100px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+#catName {
+    font-size: 22px;
+}
